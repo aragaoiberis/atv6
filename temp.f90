@@ -1,6 +1,6 @@
 program escala_vetor
   implicit none
-  integer, parameter :: N = 100000000
+  integer, parameter :: N = 10000000
   real(8) :: x(N), y(N), alpha
   integer :: i
   real(8) :: t1, t2
